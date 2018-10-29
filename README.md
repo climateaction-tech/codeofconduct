@@ -62,7 +62,7 @@ If you are subject to or witness unacceptable behavior, or have any other concer
   * Twitter: [@davidcairns](https://twitter.com/davidcairns)
 * Peter W
   * Slack: @peterw
-  * Email: techshark@gmail.com
+  * Email: techieshark@gmail.com
   * Keybase & Twitter: [@techieshark](https://twitter.com/techieshark/)
 
 Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
