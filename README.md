@@ -1,5 +1,7 @@
 # ClimateAction.tech: Code of Conduct
 
+Note: In addition to our code of conduct, please also consider reviewing our [ClimateAction.tech Overview document](https://docs.google.com/document/d/1NoBEjzXRQs6npHVJ8n0y349OXKqjEEz74ht4LOzvYKE/edit?usp=sharing) for a deeper exploration of the community and its values.
+
 ## 1. Purpose
 One of the primary goals of ClimateAction.tech is to be inclusive to the largest number of collaborators, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religious beliefs.
 
