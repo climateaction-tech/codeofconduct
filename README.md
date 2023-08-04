@@ -58,9 +58,8 @@ If a community member engages in unacceptable behavior, the community organizers
 If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community moderator as soon as possible on Slack:
 
 **Community Moderators**
-* Melissa Hsiung
-  * Slack: @melissa
-  * Email: melissa.cat2050@gmail.com
+  * Slack: #7-cat-community-feedback
+  * Email: organizers@climateaction.tech
 
 Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
 
